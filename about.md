@@ -4,5 +4,5 @@ title: Motivação
 permalink: /sobre/
 ---
 
-Este é um banco de conecimento com minhas anotações sobre vários assuntos.
+Este é um banco de conhecimento com minhas anotações sobre vários assuntos.
 
